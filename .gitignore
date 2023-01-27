@@ -1,0 +1,13 @@
+/venv/
+.idea
+/data_for_send
+/Load
+/Logs
+/Templates
+/Soft
+/Send_data
+/Tests/producer.py
+/Tests/IPC.json
+/Tests/OKPD.json
+/Tests/OKVED.json
+/send_error

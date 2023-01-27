@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "ROBOT EMISS"
+export rpauser="rpauser"
+~/PycharmProjects/2022_emiss/venv/bin/python ~/PycharmProjects/2022_emiss/main.py
